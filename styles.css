@@ -74,7 +74,7 @@ a{
     margin-top: 20px;
 }
 .abt-div{
-    background-image: url(/joe-woods-4Zaq5xY5M_c-unsplash.jpg);
+    background-image: url('/joe-woods-4Zaq5xY5M_c-unsplash.jpg');
     background-size: cover;
     
 }
@@ -103,7 +103,7 @@ margin-top: 30px;
     padding-bottom: 30px;
 }
 .contact{
-    background-image: url(/linus-nylund-UCIZh0-OYPw-unsplash.jpg);
+    background-image: url('/linus-nylund-UCIZh0-OYPw-unsplash.jpg');
     background-size: cover;
     height: 100vh;
 }
